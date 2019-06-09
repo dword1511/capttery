@@ -1,0 +1,3 @@
+[submodule "inverter"]
+	path = inverter
+	url = https://github.com/dword1511/stm32-hbctl.git
