@@ -1,3 +1,6 @@
 [submodule "inverter"]
 	path = inverter
 	url = https://github.com/dword1511/stm32-hbctl.git
+[submodule "showcase_ble"]
+	path = showcase_ble
+	url = https://github.com/dword1511/efr32-thunderboard-sense.git
