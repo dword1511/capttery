@@ -4,3 +4,6 @@
 [submodule "showcase_ble"]
 	path = showcase_ble
 	url = https://github.com/dword1511/efr32-thunderboard-sense.git
+[submodule "showcase_uwb"]
+	path = showcase_uwb
+	url = https://github.com/dword1511/stm32-tinyuwb.git
