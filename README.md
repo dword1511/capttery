@@ -2,6 +2,12 @@
 
 Resources will be gradually added as submodules. Please be patient...
 
+To check out the whole workspace, run
+
+```
+git clone --recurse-submodules https://github.com/dword1511/capttery.git
+```
+
 ## TODOs
 
 * Firmware: Voltage monitor
