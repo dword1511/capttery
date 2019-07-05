@@ -13,7 +13,6 @@ git clone --recurse-submodules https://github.com/dword1511/capttery.git
 * Firmware: Voltage monitor
 * PCB: Voltage monitor
 * Simulation files from Sidharth
-* LTSpice files
 * Schematics for the high-voltage probe
 
 ## Done
@@ -28,3 +27,6 @@ The `showcase_uwb_app` folder contains the Decawave UWB localization application
 
 The `showcase_power` folder contains [Monsoon Power Monitor](https://www.msoon.com/lvpm-software-download) screenshot for both showcase applications.
 See the upper-right corner for statistics. Original trace were not preserved.
+
+The `spice` folder contains LTSpice schematics for TX and RX circuit-level simulations.
+The schematics contain brief instructions, while the detailed versions are under preparation.
