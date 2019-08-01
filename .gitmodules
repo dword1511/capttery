@@ -10,3 +10,6 @@
 [submodule "showcase_uwb_app"]
 	path = showcase_uwb_app
 	url = https://github.com/dword1511/DecaRangeRTLS_linux.git
+[submodule "fieldprobe"]
+	path = fieldprobe
+	url = https://github.com/dword1511/stm32-voltmeter.git

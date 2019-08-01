@@ -10,14 +10,15 @@ git clone --recurse-submodules https://github.com/dword1511/capttery.git
 
 ## TODOs
 
-* Firmware: Voltage monitor
-* PCB: Voltage monitor
 * Simulation files from Sidharth
-* Schematics for the high-voltage probe
 
 ## Done
 
 The `inverter` folder contains the firmware and PCB for the half-bridge driver that provides 1 MHz input to the transmitter matching network.
+
+The `fieldprobe` folder contains the firmware and PCB for the voltage meter and RX board.
+
+The `hv_probe` folder contains schematics and photo for the apparatus used to measure the TX voltage.
 
 The `showcase_ble` folder contains the firmware and related information for the BLE sensing station showcase scenario.
 
